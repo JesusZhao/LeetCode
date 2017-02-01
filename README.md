@@ -3,5 +3,6 @@
 
 |题号|标题|难易程度|
 |:-:|:-:|:-:|
+|1|[Number Complement](sourcecode/1.Two Sum.py)|Easy|
 |461|[Hamming Distance](sourcecode/461.Hamming Distance.py)|Easy|
 |476|[Number Complement](sourcecode/476.Number Complement.py)|Easy|
