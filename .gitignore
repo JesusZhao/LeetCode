@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# my ignore
+debug.java
+debug.class
+Solution.java
+Solution.class
+
 # C extensions
 *.so
 
